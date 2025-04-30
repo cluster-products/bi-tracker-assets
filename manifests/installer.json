@@ -1,0 +1,9 @@
+{
+  "installers": [
+    {
+      "template": "qcma",
+      "description": "BI Tracker installer",
+      "version": "1"
+    }
+  ]
+}
