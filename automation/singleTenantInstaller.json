@@ -29152,7 +29152,7 @@
       "inputs": [
         {
           "id": "url",
-          "value": "https://raw.githubusercontent.com/qlik-oss/qlik-cloud-monitoring-apps/refs/heads/main/manifests/installers.json",
+          "value": "https://raw.githubusercontent.com/cluster-products/bi-tracker-assets/refs/heads/main/manifests/installer.json",
           "type": "string",
           "structure": []
         },
@@ -29308,7 +29308,7 @@
       "inputs": [
         {
           "id": "input",
-          "value": "{linebreak}\n##### Template out of date\n\n| Issue | Description |\n| --- | --- |\n| Installer template is not up to date | Version \"{$.currentTemplateVersionNum}\" is not greater than or equal to the latest version \"{$.callURL3.installers[?(@.template=='qcma')].version}\" |\n{linebreak}\n{linebreak}\nThis template is out of date and cannot be used. Please navigate to thttps://github.com/cluster-products/bi-tracker-assets/blob/main/automation/singleTenantInstaller.json to download the latest version. This automation can be removed. Exiting the installer...",
+          "value": "{linebreak}\n##### Template out of date\n\n| Issue | Description |\n| --- | --- |\n| Installer template is not up to date | Version \"{$.currentTemplateVersionNum}\" is not greater than or equal to the latest version \"{$.callURL3.installers[?(@.template=='qcma')].version}\" |\n{linebreak}\n{linebreak}\nThis template is out of date and cannot be used. Please navigate to https://github.com/cluster-products/bi-tracker-assets/blob/main/automation/singleTenantInstaller.json to download the latest version. This automation can be removed. Exiting the installer...",
           "type": "string",
           "structure": []
         }
