@@ -15007,7 +15007,7 @@
       "inputs": [
         {
           "id": "input",
-          "value": "| 🎉 Installation/update complete. API key valid until: {date: {$.apiKeyExpiryDate}, 'Y-m-d H:s'} | {$.importAppFromBase64EncodedFile.attributes.id} |",
+          "value": "| Return to BI Tracker 🎉 Installation/update complete. API key valid until: {date: {$.apiKeyExpiryDate}, 'Y-m-d H:s'} | {$.importAppFromBase64EncodedFile.attributes.id} |",
           "type": "string",
           "structure": []
         }
@@ -26354,7 +26354,7 @@
       "inputs": [
         {
           "id": "title",
-          "value": "Installation/update complete. API key valid until: {date: {$.apiKeyExpiryDate}, 'Y-m-d H:s'} | {$.importAppFromBase64EncodedFile.attributes.id} |",
+          "value": "Return to BI Tracker 🎉 Installation/update complete. API key valid until: {date: {$.apiKeyExpiryDate}, 'Y-m-d H:s'} | {$.importAppFromBase64EncodedFile.attributes.id} |",
           "type": "string",
           "structure": []
         }
