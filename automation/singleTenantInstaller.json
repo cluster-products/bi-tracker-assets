@@ -14969,12 +14969,12 @@
       "disabled": false,
       "name": "output101",
       "displayName": "Output 101",
-      "comment": "Installing the Qlik Cloud Monitoring Applications",
+      "comment": "Installing the BI Tracker application.",
       "childId": "1D12AA3B-DFD6-4145-96CC-C37D9A23D6CC",
       "inputs": [
         {
           "id": "input",
-          "value": "##### Installing the Qlik Cloud Monitoring Applications",
+          "value": "##### Installing the BI Tracker application.",
           "type": "string",
           "structure": []
         }
